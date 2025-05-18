@@ -1,0 +1,1 @@
+words = ["ab", "ed", "ed", "ed", "ac"]
