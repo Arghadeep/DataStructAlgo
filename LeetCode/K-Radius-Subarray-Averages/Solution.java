@@ -1,0 +1,1 @@
+window_sum = sum(nums[i] for i in range(2 * k + 1))
